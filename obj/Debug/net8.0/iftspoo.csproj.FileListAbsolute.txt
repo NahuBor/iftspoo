@@ -1,0 +1,15 @@
+/workspaces/iftspoo/bin/Debug/net8.0/iftspoo
+/workspaces/iftspoo/bin/Debug/net8.0/iftspoo.deps.json
+/workspaces/iftspoo/bin/Debug/net8.0/iftspoo.runtimeconfig.json
+/workspaces/iftspoo/bin/Debug/net8.0/iftspoo.dll
+/workspaces/iftspoo/bin/Debug/net8.0/iftspoo.pdb
+/workspaces/iftspoo/obj/Debug/net8.0/iftspoo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/iftspoo/obj/Debug/net8.0/iftspoo.AssemblyInfoInputs.cache
+/workspaces/iftspoo/obj/Debug/net8.0/iftspoo.AssemblyInfo.cs
+/workspaces/iftspoo/obj/Debug/net8.0/iftspoo.csproj.CoreCompileInputs.cache
+/workspaces/iftspoo/obj/Debug/net8.0/iftspoo.sourcelink.json
+/workspaces/iftspoo/obj/Debug/net8.0/iftspoo.dll
+/workspaces/iftspoo/obj/Debug/net8.0/refint/iftspoo.dll
+/workspaces/iftspoo/obj/Debug/net8.0/iftspoo.pdb
+/workspaces/iftspoo/obj/Debug/net8.0/iftspoo.genruntimeconfig.cache
+/workspaces/iftspoo/obj/Debug/net8.0/ref/iftspoo.dll

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace EjemploPersonaAuto
 {
@@ -51,4 +51,3 @@ namespace EjemploPersonaAuto
         }
     }
 }
-
