@@ -1,0 +1,15 @@
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/Ejercicio6.AssemblyInfoInputs.cache
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/Ejercicio6.AssemblyInfo.cs
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/Ejercicio6.csproj.CoreCompileInputs.cache
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/Ejercicio6.sourcelink.json
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/bin/Debug/net8.0/Ejercicio6
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/bin/Debug/net8.0/Ejercicio6.deps.json
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/bin/Debug/net8.0/Ejercicio6.runtimeconfig.json
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/bin/Debug/net8.0/Ejercicio6.dll
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/bin/Debug/net8.0/Ejercicio6.pdb
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/Ejercicio6.dll
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/refint/Ejercicio6.dll
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/Ejercicio6.pdb
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/Ejercicio6.genruntimeconfig.cache
+/workspaces/iftspoo/Practica-Ifts11/Clase 3/Practica/Ejercicio6/obj/Debug/net8.0/ref/Ejercicio6.dll
