@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EniilqD8GXU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\electronic321\\Desktop\\iftspoo\\Practicas\\Clase 4\\Clase 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\electronic321\\.nuget\\packages\\roslynator.analyzers\\4.13.1\\roslynator.analyzers.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
